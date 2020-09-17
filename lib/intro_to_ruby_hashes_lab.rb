@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {:animal => "flying squirrel"
+  {:animal => "flying squirrel"}
 end
 
 def pioneer
